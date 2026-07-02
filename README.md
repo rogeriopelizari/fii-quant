@@ -127,8 +127,6 @@ O score é calculado com base em pesos:
 📷 Preview
 ![Dashboard do projeto](images/dash.png)
 
-<img width="935" height="628" alt="image" src="https://github.com/user-attachments/assets/1f168efe-193d-457c-bad7-e445c7e4e06d" />
-
 ---
 
 🔥 Próximas melhorias
