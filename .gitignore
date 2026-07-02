@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual env
+venv/
+.env/
+.env.local
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Data (IMPORTANTE no seu caso)
+invest/data/*.csv
+invest/data/*.parquet
+invest/data/*.json
+
+# Se você não quer versionar dados baixados da API
+invest/data/raw/
+invest/data/processed/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache/test
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter (se usar)
+.ipynb_checkpoints/
+
+.env
